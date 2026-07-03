@@ -1,18 +1,4 @@
 # W. Kyle Graves
 
-Things I keep coming back to:
-
-- browsers
-- health and biosignals
-- agent simulations
-- AI Agent Experiments
-- old internet aesthetics
-- local-first tools
-- simple interfaces
-- open source
-- plain JS and CSS
-- Functional programing with TypeScript
-- Mesh networks
-- Ethereum
-- OpenClaw
+Things I keep coming back to: browsers, biosignals, agent simulations, local-first tools, simple interfaces, old internet aesthetics, plain JavaScript and CSS, TypeScript, mesh networks, Ethereum, and OpenClaw.
 
