@@ -9,11 +9,10 @@ Things I keep coming back to:
 - old internet aesthetics
 - local-first tools
 - simple interfaces
-- Ethereum
-- decentralzied systems
 - open source
 - plain JS and CSS
 - Functional programing with TypeScript
 - Mesh networks
+- Ethereum
 - OpenClaw
 
