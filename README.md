@@ -1,16 +1,19 @@
-## Hi there 👋
+# W. Kyle Graves
 
-<!--
-**wkyleg/wkyleg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Things I keep coming back to:
 
-Here are some ideas to get you started:
+- browsers
+- health and biosignals
+- agent simulations
+- AI Agent Experiments
+- old internet aesthetics
+- local-first tools
+- simple interfaces
+- Ethereum
+- decentralzied systems
+- open source
+- plain JS and CSS
+- Functional programing with TypeScript
+- Mesh networks
+- OpenClaw
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
